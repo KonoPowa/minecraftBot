@@ -3,6 +3,7 @@ A bot with wall, platform, and castle turret building capabilities.
 
 ## Castle Turret
 ![](https://github.com/KonoPowa/minecraftBot/blob/main/readmeAssets/castleTurret.gif)
-![](https://github.com/KonoPowa/minecraftBot/blob/main/readmeAssets/castleTurret.PNG)
 
+## Wall.lua
+![](https://github.com/KonoPowa/minecraftBot/blob/main/readmeAssets/wall.gif)
 
