@@ -1,5 +1,5 @@
 # minecraftBot
-A bot with wall, platform, and castle turret building capabilities. Uses the openComputers mod and programmed in Lua.  
+A bot with wall, platform, and castle turret building capabilities. Uses the openComputers mod and programmed in Lua.    
 Input a width/length/height and take a nap!
 
 ## Castle Turret
